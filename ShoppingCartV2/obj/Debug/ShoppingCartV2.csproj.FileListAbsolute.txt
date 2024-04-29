@@ -1,0 +1,253 @@
+C:\Users\shawadmin\Desktop\3410\6070\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.csprojAssemblyReference.cache
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\ApplicationInsights.config
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\csc.exe
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\vbc.exe
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\VBCSCompiler.exe
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\ShoppingCartV2.dll.config
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\ShoppingCartV2.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\ShoppingCartV2.pdb
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Antlr3.Runtime.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\EntityFramework.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\EntityFramework.SqlServer.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.Web.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Newtonsoft.Json.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Owin.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Helpers.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Mvc.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Optimization.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Razor.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.Razor.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\WebGrease.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.Web.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Helpers.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Mvc.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Optimization.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Razor.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.Razor.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Antlr3.Runtime.pdb
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Newtonsoft.Json.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\EntityFramework.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\EntityFramework.SqlServer.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.csproj.AssemblyReference.cache
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.csproj.CoreCompileInputs.cache
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\Shopping.9C2CA4F5.Up2Date
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.dll
+C:\Users\lopez\Desktop\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.pdb
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\ApplicationInsights.config
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\csc.exe
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\vbc.exe
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\VBCSCompiler.exe
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\ShoppingCartV2.dll.config
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\ShoppingCartV2.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\ShoppingCartV2.pdb
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Antlr3.Runtime.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\EntityFramework.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\EntityFramework.SqlServer.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.Web.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Newtonsoft.Json.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Owin.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Helpers.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Mvc.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Optimization.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Razor.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.Razor.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\WebGrease.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.Web.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Helpers.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Mvc.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Optimization.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Razor.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.Razor.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Antlr3.Runtime.pdb
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Newtonsoft.Json.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\EntityFramework.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\EntityFramework.SqlServer.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.csproj.AssemblyReference.cache
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.csproj.CoreCompileInputs.cache
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.csproj.CopyComplete
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.dll
+C:\Users\klopez48\OneDrive - Kennesaw State University\Spring '24 Classes\Intro to Database Spring '24\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.pdb
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\ApplicationInsights.config
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\csc.exe
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\vbc.exe
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\VBCSCompiler.exe
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\ShoppingCartV2.dll.config
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\ShoppingCartV2.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\ShoppingCartV2.pdb
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Antlr3.Runtime.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\EntityFramework.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\EntityFramework.SqlServer.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.Web.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Newtonsoft.Json.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Owin.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Helpers.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Mvc.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Optimization.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Razor.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.Razor.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\WebGrease.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.Web.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Helpers.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Mvc.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Optimization.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.Razor.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\System.Web.WebPages.Razor.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Antlr3.Runtime.pdb
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Newtonsoft.Json.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\EntityFramework.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\EntityFramework.SqlServer.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.csproj.AssemblyReference.cache
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.csproj.CoreCompileInputs.cache
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.csproj.CopyComplete
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.dll
+C:\Users\klopez43\Desktop\new\new\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.pdb
